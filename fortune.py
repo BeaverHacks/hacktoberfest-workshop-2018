@@ -6,6 +6,10 @@ fortunes = [
 "Get a flu shot this year", # jesse
 "¯\\_(ツ)_/¯" # jesse,
 "Today you will meet someone that will impact your entire existance, pay attention", # vinny
+"new fortune", #greg
+"Every man is the architect of his own fortune",
+"Fortune favors the brave",
+"When fortune knocks open the door"
 ]
 
 print("""
