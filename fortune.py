@@ -5,6 +5,7 @@ fortunes = [
 "Keep up the hard work", # jesse
 "Get a flu shot this year", # jesse
 "¯\\_(ツ)_/¯" # jesse
+"Jesse rocks! Loving the workshop." # Sora
 ]
 
 print("""
