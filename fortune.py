@@ -3,7 +3,7 @@ from random import randint
 fortunes = [
 "The future looks bright!", # jesse
 "Keep up the hard work", # jesse
-"Get a flu shot this year", # jesse
+"Remember to use Git Bash for workshops", # jesse
 "¯\\_(ツ)_/¯" # jesse
 ]
 
