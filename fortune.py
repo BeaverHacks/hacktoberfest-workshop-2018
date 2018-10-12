@@ -1,11 +1,18 @@
 from random import randint
 
 fortunes = [
+"The princess is in another castle", # Adam
 "The future looks bright!", # jesse
 "Keep up the hard work", # jesse
-"Get a flu shot this year", # jesse
+"Remember to use Git Bash for workshops", # jesse
+"Get good sleep and drink lots of water", # Andrew
 "¯\\_(ツ)_/¯" # jesse
 "Jesse rocks! Loving the workshop." # Sora
+"Today you will meet someone that will impact your entire existance, pay attention", # vinny
+"new fortune", #greg
+"Every man is the architect of his own fortune",
+"Fortune favors the brave",
+"When fortune knocks open the door"
 ]
 
 print("""
