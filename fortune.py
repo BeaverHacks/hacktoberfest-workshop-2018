@@ -4,7 +4,8 @@ fortunes = [
 "The future looks bright!", # jesse
 "Keep up the hard work", # jesse
 "Get a flu shot this year", # jesse
-"¯\\_(ツ)_/¯" # jesse
+"¯\\_(ツ)_/¯", # jesse
+"new fortune", #greg
 ]
 
 print("""
