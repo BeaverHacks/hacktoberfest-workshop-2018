@@ -4,7 +4,8 @@ fortunes = [
 "The future looks bright!", # jesse
 "Keep up the hard work", # jesse
 "Get a flu shot this year", # jesse
-"¯\\_(ツ)_/¯" # jesse,
+"Get good sleep and drink lots of water", # Andrew
+"¯\\_(ツ)_/¯" # jesse
 "Today you will meet someone that will impact your entire existance, pay attention", # vinny
 "new fortune", #greg
 "Every man is the architect of his own fortune",
