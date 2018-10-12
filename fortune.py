@@ -1,6 +1,7 @@
 from random import randint
 
 fortunes = [
+"The princess is in another castle", # Adam
 "The future looks bright!", # jesse
 "Keep up the hard work", # jesse
 "Remember to use Git Bash for workshops", # jesse
