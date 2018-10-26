@@ -12,7 +12,9 @@ fortunes = [
 "new fortune", #greg
 "Every man is the architect of his own fortune",
 "Fortune favors the brave",
-"When fortune knocks open the door"
+"When fortune knocks open the door",
+"Change yourself and fortune will change.", #Panham
+"With great power comes great responsibility" #Uncle Ben
 ]
 
 print("""
