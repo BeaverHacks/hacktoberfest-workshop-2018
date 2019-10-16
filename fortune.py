@@ -32,6 +32,8 @@ print("""
 print("Enter any key to get a fortune, or q to quit:")
 user_input = input()
 while user_input is not "q" and user_input is not "Q":
+	# to generate a random index from 0 to length - 1
+	# printing the fortune at random index generated
 	random_index = randint(0, len(fortunes) - 1)
 	print(fortunes[random_index])
 	user_input = input()
